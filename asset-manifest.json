@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/starwarspaceship/static/css/main.80435a66.css",
-    "main.js": "/starwarspaceship/static/js/main.e3be3293.js",
-    "static/js/787.841ae776.chunk.js": "/starwarspaceship/static/js/787.841ae776.chunk.js",
-    "static/media/no-image.png": "/starwarspaceship/static/media/no-image.8dd135278a006d79616d.png",
-    "static/media/logo.svg": "/starwarspaceship/static/media/logo.c1b3c179c4f957fed20b0effca7edbca.svg",
-    "index.html": "/starwarspaceship/index.html",
-    "main.80435a66.css.map": "/starwarspaceship/static/css/main.80435a66.css.map",
-    "main.e3be3293.js.map": "/starwarspaceship/static/js/main.e3be3293.js.map",
-    "787.841ae776.chunk.js.map": "/starwarspaceship/static/js/787.841ae776.chunk.js.map"
+    "main.css": "/StarWarsSpaceship/static/css/main.80435a66.css",
+    "main.js": "/StarWarsSpaceship/static/js/main.50813c30.js",
+    "static/js/787.841ae776.chunk.js": "/StarWarsSpaceship/static/js/787.841ae776.chunk.js",
+    "static/media/no-image.png": "/StarWarsSpaceship/static/media/no-image.8dd135278a006d79616d.png",
+    "static/media/logo.svg": "/StarWarsSpaceship/static/media/logo.c1b3c179c4f957fed20b0effca7edbca.svg",
+    "index.html": "/StarWarsSpaceship/index.html",
+    "main.80435a66.css.map": "/StarWarsSpaceship/static/css/main.80435a66.css.map",
+    "main.50813c30.js.map": "/StarWarsSpaceship/static/js/main.50813c30.js.map",
+    "787.841ae776.chunk.js.map": "/StarWarsSpaceship/static/js/787.841ae776.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80435a66.css",
-    "static/js/main.e3be3293.js"
+    "static/js/main.50813c30.js"
   ]
 }
